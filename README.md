@@ -13,7 +13,7 @@ de outros idiomas).
 
 Bem, desenvolver este Madlib se mostrou muito mais enriquecedor para mim do que eu poderia imaginar. Com o intuito de passar maior transparência, estarei deixando disponível a versão inicial que fiz, sem loopings, tratamentos de erro, condicionais...a forma mais simples e também a versão com todos os comandos, métodos e etc que aprendi no desenrolar deste projeto. Em breve pretendo ir adicionando mais e mais projetos, mas não irei apagar os antigos para poder ir acompanhando melhor a minha evolução na elaboração de um código!
 	
-Caso você tenha alguma dúvida, sugestão, crítica ou apenas queira entrar em contato comigo, deixo disponível meu e-mail: rafaeladsbel@gmail.com.
+Caso você tenha alguma dúvida, sugestão, crítica ou apenas queira entrar em contato comigo, deixo disponível meu e-mail: rafaeldsbelem@gmail.com.
 	
 Obrigado por ter lido até aqui, espero você no meu próximo projeto!
 
